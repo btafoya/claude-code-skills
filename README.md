@@ -23,8 +23,8 @@ Each skill has its own installation instructions. Generally:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/btafoya/agent-memory-skills.git
-   cd agent-memory-skills
+   git clone https://github.com/btafoya/claude-code-skills.git
+   cd claude-code-skills
    ```
 
 2. **Choose a skill** and follow its README

@@ -62,8 +62,8 @@ pipx install cogdb
 **Step 2: Clone or download the skill**
 
 ```bash
-git clone https://github.com/your-org/agent-memory-skill.git
-# Or download and extract to a known location
+git clone https://github.com/btafoya/claude-code-skills.git
+cd claude-code-skills/agent-memory-skill
 ```
 
 **Step 3: Configure Claude Code**
