@@ -1,0 +1,14 @@
+# Agent Memory Skill - Dependencies
+#
+# Install with pipx (recommended):
+#   pipx install cogdb    # Graph backend (default)
+#   pipx install mcp      # MCP server for Claude Code
+#
+# Or with pip in a virtual environment:
+#   pip install cogdb mcp
+
+# Graph Backend (default) - relationship-aware storage
+cogdb>=0.2.0
+
+# MCP Server (for Claude Code integration)
+mcp>=0.1.0
